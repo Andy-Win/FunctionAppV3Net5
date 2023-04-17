@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "FunctionAppV3Net5": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7120",
+      "launchBrowser": false
+    }
+  }
+}
